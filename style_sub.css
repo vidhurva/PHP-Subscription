@@ -1,0 +1,26 @@
+* {
+	font-family: Georgia, serif;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+label {
+	font-size: 16px;
+}
+
+.submit {
+	padding-top: 20px;
+}
+
+.box {
+	border: 2px solid blue;
+	width: 300px;
+	padding: 20px;
+}
+
+p {
+	font-size: 18px;
+	color: #003366;
+}
